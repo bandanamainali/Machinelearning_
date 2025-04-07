@@ -1,6 +1,6 @@
-# H1  Multiple variable linear regression
+# Multiple variable linear regression
 
-## H2  Multiple linear regression is a statistical technique used to model the relationship between a dependent variable and two or more independent variables. In this technique, we use a linear equation to represent the relationship between the variables. The equation can be written as
+## Multiple linear regression is a statistical technique used to model the relationship between a dependent variable and two or more independent variables. In this technique, we use a linear equation to represent the relationship between the variables. The equation can be written as
 
 Y = b0 + b1X1 + b2X2 + ... + bnxn
 
